@@ -1,0 +1,82 @@
+html,body
+{
+    height:100%;
+    margin:0;
+    background-color: #EEEEEE;
+}
+#content
+{
+    width:1024px;
+    height:100%;
+    margin-left: auto ;
+    margin-right: auto ;
+    overflow:auto;
+    padding-bottom:50px;
+    background-color: #F8F8F8;
+}
+h1
+{
+    text-align:center;
+    font-family: "Georgia";
+    font-size: 24px;
+}
+h2
+{
+    text-align:center;
+    font-family: "Georgia";
+    font-size: 28px;
+}
+h3
+{
+    font-family: "Georgia";
+    font-size: 20px;
+    margin-left:55px;
+}
+h4
+{
+    font-family: "Georgia";
+    font-size: 20px;
+}
+p
+{
+    font-family: "Georgia", Times, serif;
+    width: 800px;
+    margin-left:55px;
+    line-height: 150%;
+}
+img
+{
+    padding:10px;
+}
+input
+{
+	border-bottom-color: #b3b3b3;
+	border-bottom-left-radius: 3px;
+	border-bottom-right-radius: 3px;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-left-color: #b3b3b3;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-color: #b3b3b3;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-top-color: #b3b3b3;
+	border-top-left-radius: 3px;
+	border-top-right-radius: 3px;
+	border-top-style: solid;
+	border-top-width: 1px;`
+}
+input.textL
+{
+	width: 93%;
+	outline: none;
+	font-size:16px;
+}
+
+input.textS
+{
+	width: 85%;
+	outline: none;
+	font-size:16px;
+}
